@@ -1,5 +1,7 @@
 # Selenium_TwitterLogin-Tweet-Python
 
+[![Code Climate](https://codeclimate.com/github/nnsnodnb/Selenium_TwitterLogin-Tweet-Python/badges/gpa.svg)](https://codeclimate.com/github/nnsnodnb/Selenium_TwitterLogin-Tweet-Python)
+
 ## Environment
 
 MacOSX 10.10.5 (Yosemite)  
