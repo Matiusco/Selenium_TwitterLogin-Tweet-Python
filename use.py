@@ -34,5 +34,8 @@ time.sleep(1)
 tweet = driver.find_element_by_id("tweet-box-home-timeline")
 tweet.send_keys("進捗ダメです！")
 post = driver.find_element_by_css_selector("button.tweet-action")
-print(post)
 post.click()
+
+time.sleep(1)
+
+driver.refresh()
